@@ -1,0 +1,40 @@
+event HudHealthBonusPulse
+{
+	Animate RedPlayerHealth				FgColor		"HealthBuff"	Linear 0.0 0.0
+	Animate BluePlayerHealth			FgColor		"HealthBuff"	Linear 0.0 0.0
+	
+	Animate PlayerStatusHealthValueSpec	FgColor		"HealthBuff"	Linear 0.0 0.0
+	Animate PlayerStatusHealthValueSpec	FgColor		"HealthBuff"	Linear 0.0 0.0
+	
+	RunEvent HudHealthBonusPulseLoop	0.4
+}
+
+event HudHealthBonusPulseStop
+{
+	Animate RedPlayerHealth				FgColor		"HudWhite"		Linear 0.0 0.0
+	Animate BluePlayerHealth			FgColor		"HudWhite"		Linear 0.0 0.0
+	
+	Animate PlayerStatusHealthValueSpec	FgColor		"HudWhite"		Linear 0.0 0.0
+	Animate PlayerStatusHealthValueSpec	FgColor		"HudWhite"		Linear 0.0 0.0
+
+	StopEvent HudHealthBonusPulse		0.0
+	StopEvent HudHealthBonusPulseLoop	0.0
+}
+//==================================================================================
+
+event HudHealthDyingPulse
+{
+	Animate RedPlayerHealth				FgColor		"HudWhite"		Linear 0.0 0.0
+	Animate BluePlayerHealth			FgColor		"HudWhite"		Linear 0.0 0.0
+	
+	RunEvent HudHealthDyingPulseLoop	0.1
+}
+
+event HudHealthDyingPulseStop
+{
+	Animate RedPlayerHealth				FgColor		"HudWhite"		Linear 0.0 0.0
+	Animate BluePlayerHealth			FgColor		"HudWhite"		Linear 0.0 0.0
+
+	StopEvent HudHealthDyingPulse		0.0
+	StopEvent HudHealthDyingPulseLoop	0.0
+}

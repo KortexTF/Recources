@@ -1,0 +1,8 @@
+{
+    "bf": 4,
+    "bitrate": 6000,
+    "keyint_sec": 10,
+    "level": "5.1",
+    "preset": "hq",
+    "rate_control": "CBR"
+}
