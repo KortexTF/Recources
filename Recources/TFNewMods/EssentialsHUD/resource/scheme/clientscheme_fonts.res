@@ -2,82 +2,15 @@ Scheme
 {
 	Fonts
 	{
-		"RobotoBold10"
+		// fonts are used in order that they are listed
+		// fonts listed later in the order will only be used if they fulfill a range not already filled
+		// if a font fails to load then the subsequent fonts will replace
+		"RobotoBold55"
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"RobotoBold11"
-		{
-			"1"
-			{
-				"name"		"Open Sans Bold"
-				"tall"		"11"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"RobotoBold12"
-		{
-			"1"
-			{
-				"name"		"Open Sans Bold"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"RobotoBold14"
-		{
-			"1"
-			{
-				"name"		"Open Sans Bold"
-				"tall"		"14"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"RobotoBold16"
-		{
-			"1"
-			{
-				"name"		"Open Sans Bold"
-				"tall"		"16"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"RobotoBold18"
-		{
-			"1"
-			{
-				"name"		"Open Sans Bold"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"RobotoBold20"
-		{
-			"1"
-			{
-				"name"		"Open Sans Bold"
-				"tall"		"20"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		"RobotoBold24"
-		{
-			"1"
-			{
-				"name"		"Open Sans Bold"
-				"tall"		"24"
+				"name"		"Roboto Bold"
+				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -86,109 +19,169 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"Roboto Bold"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto8"
+		"RobotoBold30"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"8"
+				"name"		"Roboto Bold"
+				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto9"
+		"RobotoBold28"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"9"
+				"name"		"Roboto Bold"
+				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto10"
+		"RobotoBold26"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"10"
+				"name"		"Roboto Bold"
+				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto12"
+		"RobotoBold24"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"12"
+				"name"		"Roboto Bold"
+				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto14"
+		"RobotoBold22"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"14"
+				"name"		"Roboto Bold"
+				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto16"
+		"RobotoBold20"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"16"
+				"name"		"Roboto Bold"
+				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto18"
+		"RobotoBold18"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Roboto Bold"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto20"
+		"RobotoBold16"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"20"
+				"name"		"Roboto Bold"
+				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto20Outline"
+		"RobotoBold14"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"20"
+				"name"		"Roboto Bold"
+				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
-				"outline"	"1"
 			}
 		}
-		"Roboto26"
+		"RobotoBold12"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"26"
+				"name"		"Roboto Bold"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"RobotoBold11"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"RobotoBold10"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"RobotoBold9"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"9"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"RobotoBold8"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"RobotoBold7"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"7"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"Roboto55"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -197,18 +190,148 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Roboto Regular"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"Roboto55"
+		"Roboto30"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"55"
+				"name"		"Roboto Regular"
+				"tall"		"30"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto28"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"28"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto26"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"26"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto24"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto22"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"22"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto20"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"20"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto18"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto16"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto14"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto12"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto11"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto10"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto9"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"9"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Roboto8"
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -218,43 +341,75 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias"	"1"
+				"name"		"Roboto Regular"
+				"tall"		"14"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"		"480 599"
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"12"
+				"name"		"Roboto Regular"
+				"tall"		"15"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"		"600 767"
+			}
+			"3"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"16"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"		"768 1023"
+				"antialias"	"1"
+			}
+			"4"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"22"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"		"1024 1199"
+				"antialias"	"1"
+			}
+			"5"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"26"
+				"weight"	"900"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+				"yres"		"1200 6000"
+				"antialias"	"1"
+			}
+			"6"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"14"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"900"
+			}
+			"7"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"14"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"800"
-			}
-		}
-		"DefaultOutline"
-		{
-			"1"
-			{
-				"name"		"Open Sans SemiBold"
-				"tall"		"10"
-				"weight"	"900"
-				"range"		"0x0000 0x017F"
-				"outline"	"1"
 			}
 		}
 		"DefaultUnderline"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Tahoma"
 				"tall"		"12"
 				"weight"	"500"
 				"underline" "1"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Arial"
 				"tall"		"11"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"800"
@@ -264,7 +419,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -272,7 +427,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -280,7 +435,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -289,7 +444,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -298,7 +453,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -307,7 +462,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Arial"
 				"tall"		"12"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"0"
@@ -317,44 +472,44 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
@@ -363,63 +518,62 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"900"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"21"
 				"weight"	"900"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"900"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"28"
 				"weight"	"900"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"30"
 				"weight"	"900"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"900"
 			}
 			"7"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Arial"
 				"tall"		"20"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"800"
 			}
 		}
-		
 		CenterPrintText
 		{
 			// note that this scales with the screen resolution
@@ -438,57 +592,56 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		HudHintText
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
 			}
-		}	
+		}
 		"HudFontGiant"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -497,7 +650,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"32"
 				"weight"	"500"
 				"additive"	"0"
@@ -506,7 +659,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -515,7 +668,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -524,7 +677,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -536,29 +689,31 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"HudFontBiggerBold"
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"35"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"HudFontBig"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -569,7 +724,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -580,7 +735,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -591,7 +746,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -602,7 +757,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -613,7 +768,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -624,7 +779,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -635,7 +790,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -646,7 +801,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -657,7 +812,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -668,7 +823,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -679,7 +834,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -690,7 +845,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -702,7 +857,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -713,7 +868,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -725,43 +880,40 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"PerformanceModeSmall"
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"StorePromotionsTitle"
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"FontCartPrice"
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -772,7 +924,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -783,7 +935,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -794,7 +946,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Build"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -805,26 +957,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"TextTooltipFont"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		GameUIButtons
 		{
 			"1"	//[$X360]
@@ -889,43 +1039,40 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"HudClassHealth"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"SpectatorKeyHints"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"ClockSubText"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -936,7 +1083,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -947,86 +1094,83 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"HudSelectionText"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"15"
 				"weight"	"700"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"1 599"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"additive"	"1"
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"15"
 				"weight"	"700"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"600 767"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"additive"	"1"
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"18"
 				"weight"	"900"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"768 1023"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"21"
 				"weight"	"900"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"1024 1199"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"24"
 				"weight"	"1000"
-				"antialias" "1"
+				"antialias"	"1"
 				"yres"		"1200 10000"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
-		
 		DebugOverlay
 		{
-			"1"
+			"1"	[$WIN32]
 			{
 				"name"		"Courier New"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
-		
 		TFTypeDeath
 		{
 			"1"
 			{
-				"name"  	"tfd"
+				"name"  	"tfd" // tfd.ttf
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		
@@ -1034,14 +1178,13 @@ Scheme
 		{
 			"1"
 			 {
-				"name"  	"Team Fortress"
+				"name"  	"Team Fortress" // tf.ttf
 				"tall"  	"28"
 				"weight" 	"0"
 				"additive" 	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
-		
 		"BetaFont"
 		{
 			"1"
@@ -1049,7 +1192,7 @@ Scheme
 				"name"		"Courier New"
 				"tall"		"90"
 				"weight"	"900"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
@@ -1059,7 +1202,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Team Fortress"
+				"name"		"Team Fortress" // tf.ttf
 				"tall"		"28"
 				"weight"	"0"
 				"additive"	"1"
@@ -1074,65 +1217,60 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		
 		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Tahoma"
 				"tall"		"24"
-				"antialias" "1"
 				"weight"	"500"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"CloseCaption_Italic"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Tahoma"
 				"tall"		"24"
-				"antialias" "1"
 				"weight"	"500"
 				"italic"	"1"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"CloseCaption_Bold"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Tahoma"
 				"tall"		"24"
-				"antialias" "1"
 				"weight"	"900"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"CloseCaption_BoldItalic"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Tahoma"
 				"tall"		"24"
-				"antialias" "1"
 				"weight"	"900"
 				"italic"	"1"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 		"CloseCaption_Small"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Tahoma"
 				"tall"		"16"
-				"antialias" "1"
 				"weight"	"900"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
 
+		// this is the symbol font
 		"Marlett"
 		{
 			"1"
@@ -1141,7 +1279,7 @@ Scheme
 				"tall"		"20"
 				"weight"	"0"
 				"symbol"	"1"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
 		"MarlettSmall"
@@ -1152,26 +1290,24 @@ Scheme
 				"tall"		"14"
 				"weight"	"0"
 				"symbol"	"1"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
-		
 		"MenuMainTitle"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
 			}
 		}
-		
 		"MenuClassBuckets"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"antialias" "1"
 				"weight"	"500"
@@ -1181,7 +1317,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1245,12 +1381,11 @@ Scheme
 				"weight"	"500"
 			}
 		}
-		
 		"ScoreboardSmallest"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"6"
 				"weight"	"400"
 				"additive"	"0"
@@ -1261,7 +1396,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -1272,7 +1407,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1283,10 +1418,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"14"
 				"weight"	"500"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
@@ -1295,10 +1430,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"20"
 				"weight"	"500"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
@@ -1307,10 +1442,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"20"
 				"weight"	"500"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
@@ -1319,10 +1454,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"weight"	"500"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
@@ -1331,10 +1466,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"20"
 				"weight"	"500"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
@@ -1343,19 +1478,20 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"34"
 				"weight"	"500"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
 		}
+		
 		"ScoreboardTeamScoreNew"
  		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -1366,7 +1502,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"52"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1375,7 +1511,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"72"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1384,7 +1520,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1393,7 +1529,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1402,7 +1538,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1410,15 +1546,14 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
 		"MatchSummaryTeamScores"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"36"
 				"weight"	"500"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
@@ -1427,7 +1562,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1438,31 +1573,29 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"CompMatchStartTeamNames"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"ControlPointTimer"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1473,7 +1606,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -1485,7 +1618,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1497,7 +1630,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1505,7 +1638,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1513,7 +1646,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1521,7 +1654,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1529,7 +1662,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1541,7 +1674,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1549,7 +1682,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1557,7 +1690,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1565,7 +1698,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1573,7 +1706,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1584,7 +1717,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1592,7 +1725,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -1600,7 +1733,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -1608,7 +1741,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -1616,7 +1749,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -1635,26 +1768,26 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
 		MenuSmallFont
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"14"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"300"
 				"antialias"	"1"
 			}
 		}
-		
 		CapPlayerFont
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"12"
 				"weight"	"500"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
 				"antialias" "1"
 			}
@@ -1663,10 +1796,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"8"
 				"weight"	"500"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"TextColor"	"Black"
 				"antialias" "1"
 			}
@@ -1676,7 +1809,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"1"
@@ -1687,7 +1820,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -1699,7 +1832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"11"  [!$OSX]
 				"tall"		"9"  [$OSX]
 				"weight"	"800"
@@ -1712,7 +1845,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"36"
 				"weight"	"500"
 			}
@@ -1721,7 +1854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"30"
 				"weight"	"500"
 			}
@@ -1730,14 +1863,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"28"
 				"weight"	"500"
 			}
 		}
 		MatchmakingDialogMenuBrowserHostname
 		{
-			"1"
+			"1"			// brower item hostname
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"22"
@@ -1746,7 +1879,7 @@ Scheme
 		}
 		MatchmakingDialogMenuBrowserDetails
 		{
-			"1"
+			"1"			// browser item players and map name
 			{
 				"name"		"Trebuchet MS"
 				"tall"		"18"
@@ -1757,7 +1890,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -1766,7 +1899,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -1775,7 +1908,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"22"
 				"weight"	"900"
 			}
@@ -1784,7 +1917,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"18"
 				"weight"	"900"
 			}
@@ -1794,7 +1927,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"900"
 			}
@@ -1804,7 +1937,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -1815,7 +1948,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -1827,7 +1960,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -1845,7 +1978,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
 		"ImportToolSmallestBold"
 		{
 			"1"
@@ -1865,22 +1997,20 @@ Scheme
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
-		
 		"SpectatorVerySmall"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
 		"DefaultVerySmallFallBack"
 		{
@@ -1889,7 +2019,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 				"antialias"	"1"
 			}
@@ -1898,7 +2028,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 1199"
 				"antialias"	"1"
 			}
@@ -1907,7 +2037,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"15"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
@@ -1917,7 +2047,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1928,7 +2058,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1939,7 +2069,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -1950,7 +2080,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1961,18 +2091,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		ItemFontAttribSmallv2
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"Verdana"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -1982,18 +2112,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"ItemFontAttribLarge"
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2004,7 +2134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2016,23 +2146,23 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"AchievementTracker_NameGlow"
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"3"
 				"additive"	"1"
-				"antialias" "1"
+				"antialias"	"1"
 			}
 		}
 		"AchievementTracker_Desc"
@@ -2122,6 +2252,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
 		"QuestObjectiveText"
 		{
 			"1"
@@ -2152,6 +2283,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
 		"QuestLargeText"
 		{
 			"1"
@@ -2163,6 +2295,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"QuestStickyText"
 		{
 			"1"
@@ -2174,6 +2307,7 @@ Scheme
 				"weight"	"500"
 			}
 		}
+		
 		"QuestInstructionText_Merasmus"
 		{
 			"1"
@@ -2204,6 +2338,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
 		"QuestFlavorText_Merasmus"
 		{
 			"1"
@@ -2237,6 +2372,7 @@ Scheme
 				"italic"	"1"
 			}
 		}
+		
 		"QuestObjectiveText_Merasmus"
 		{
 			"1"
@@ -2267,6 +2403,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		
 		"QuestMediumText_Merasmus"
 		{
 			"1"
@@ -2278,6 +2415,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"QuestLargeText_Merasmus"
 		{
 			"1"
@@ -2301,6 +2439,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"AdFont_AdText"
 		{
 			"1"
@@ -2334,6 +2473,7 @@ Scheme
 				"additive"	"0"
 			}
 		}
+		
 		"TradeUp_Quote"
 		{
 			"1"
@@ -2347,7 +2487,9 @@ Scheme
 			}
 		}
 		
+		//
 		//////////////////// REPLAY FONTS //////////////////////////////
+		//
 		"ReplayVerySmall"
 		{
 			"1"
@@ -2355,7 +2497,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
 			"2"
@@ -2363,7 +2505,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
 			"3"
@@ -2371,7 +2513,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"12"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
 				"antialias"	"1"
 			}
@@ -2380,7 +2522,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
@@ -2389,7 +2531,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"0"
-				"range"		"0x0000 0x017F"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
@@ -2398,7 +2540,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2462,7 +2604,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2473,7 +2615,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2484,7 +2626,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2495,7 +2637,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -2506,7 +2648,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2514,12 +2656,14 @@ Scheme
 			}
 		}
 		
+		//
 		//////////////////// ECON FONTS //////////////////////////////
+		//
 		"EconFontSmall"
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2530,7 +2674,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -2542,10 +2686,10 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"15"
 				"weight"	"500"
-				"range"		"0x0000 0x007F"
+				"range"		"0x0000 0x007F"	//	Basic Latin
 				"antialias" "1"
 				"additive"	"0"
 			}
@@ -2555,7 +2699,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans SemiBold"
+				"name"		"TF2 Secondary"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -2567,18 +2711,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias" "1"
-				"custom"	"1"
 			}
 		}
+		
 		"XPSource_Glow"
 		{
 			"1"
 			{
-				"name"		"Open Sans Bold"
+				"name"		"TF2 Build"
 				"tall"		"11"
 				"weight"	"500"
 				"blur"		"3"
@@ -2612,6 +2756,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"QuestMap_Small"
 		{
 			"1"
@@ -2623,6 +2768,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"QuestMap_Medium"
 		{
 			"1"
@@ -2634,6 +2780,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"QuestMap_Large"
 		{
 			"1"
@@ -2645,6 +2792,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"QuestMap_Huge"
 		{
 			"1"
@@ -2655,6 +2803,84 @@ Scheme
 				"additive"	"0"
 				"antialias" "1"
 			}
+		}
+	}
+	
+	BitmapFontFiles
+	{
+		// UI buttons, custom font, (256x64)
+		"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
+	}
+	
+	CustomFontFiles
+	{
+		"1" "resource/tf.ttf"
+		"2" "resource/tfd.ttf"
+		"3"
+		{
+			"font"	"resource/TF2.ttf"
+			"name"	"TF2"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
+		"4" 
+		{
+			"font"	"resource/TF2Secondary.ttf"
+			"name"	"TF2 Secondary"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
+		"5" 
+		{
+			"font"	"resource/TF2Professor.ttf"
+			"name"	"TF2 Professor"
+			"russian"
+			{
+				"range" "0x0000 0x00FF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0x00FF"
+			}
+		}	
+		"6" 
+		{
+			"font"	"resource/TF2Build.ttf"
+			"name"	"TF2 Build"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"turkish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
+		"7"
+		{
+			"font"	"resource/fonts/Roboto-Bold.ttf"
+			"name"	"Roboto Bold"
+		}
+		"8"
+		{
+			"font"	"resource/fonts/Roboto-Black.ttf"
+			"name"	"Roboto Regular"
 		}
 	}
 }
