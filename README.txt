@@ -12,19 +12,19 @@ The ConVars inside this CFG are Mandatory! if you are using a custom CFG, please
 
 The Startup options need to be set inside Steam.
 
-The Fonts CodeProLC and CodeProBold need to be installed. Please make sure that the Fonts work inside your OBS. Contact me if not.
+The Fonts CodeProLC and CodeProBold need to be installed. Please make sure that the Fonts work inside your OBS.
 
-There are now 2 Logs.TF Sources inside the Logs Scene. You will have to copy the Logs link into 1 of them to refresh them both. The Source higher on the list shows the Medic stats.
+There are 2 Logs.TF Sources inside the Logs Scene. You will have to copy the Logs link into 1 of them to refresh them both. The Source higher on the list shows the Medic stats.
 Leaving it invisible (clicking the eye icon) will show the normal Logs screen. Making it Visible reveals the Medic stats on top of the normal Logs.
 In OBS studio mode, you will have to Transition to the Logs Scene if you want the Medic stats to show up on stream.
 You may need to resize the Sources if team sizes change. To resize, unlock the Source, hold ALT and drag the red dots into the direction you want to crop.
 
-On the In between Scene, Staff Pictures are now supposed to be Round. This can be achieved through a filter I've implemented.
-To install the filter, Right click EACH Staff Picture and go to "Filters". There you will find a "Image Mask/Blend" filter.
-Click on it and, on the right hand side you should see the settings pop up. Now you have to redirect the Path of the Filter into your Overlays folder (..\Recources\Oberlays\Mask.png)
+On the In between Scene, Staff Pictures are supposed to be Round. This can be achieved through a filter found inside the "Overlays" folder.
+To install the filter, Right click EACH Staff Picture Source and go to "Filters". There you will find a "Image Mask/Blend" filter.
+Click on it and, on the right hand side, you should see the settings pop up. Now you have to redirect the Path of the Filter into your Overlays folder (..\Recources\Oberlays\Mask.png)
 
-Scene transition Frame is now 26!
+Scene transition Frame is 26.
 
-The new Scene presets are Mandatory to install. The Options presets are optional.
+The new Scene and Options presets are Mandatory to install.
 
-If you have trouble with any of these functions, PM me directly.
+If you have trouble with any of these functions, Ping or PM @KortexTF #2405.
