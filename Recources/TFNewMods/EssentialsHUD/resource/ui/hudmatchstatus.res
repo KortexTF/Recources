@@ -292,7 +292,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"RobotoBold12"
-			"fgcolor"		"32 32 32 255"
+			"fgcolor"		"64 64 64 255"
 			"xpos"			"0"
 			"ypos"			"1"
 			"zpos"			"3"

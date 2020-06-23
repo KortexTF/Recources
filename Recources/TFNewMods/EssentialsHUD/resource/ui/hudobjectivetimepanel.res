@@ -177,7 +177,7 @@
 		"brighttext"		"0"
 		"wrap"				"0"
 		"font"				"RobotoBold16"
-		"fgcolor"			"32 32 32 255"
+		"fgcolor"			"64 64 64 255"
 	}		
 	"ServerTimeLimitLabelBG"
 	{

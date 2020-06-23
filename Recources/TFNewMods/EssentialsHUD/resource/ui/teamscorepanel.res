@@ -101,7 +101,7 @@
 		"labelText"				"%blueteamscore%"
 		"textAlignment"			"center"
 		"visible"				"1"
-		"fgcolor_override"		"32 32 32 255"
+		"fgcolor_override"		"64 64 64 255"
 
 		"pin_to_sibling"		"TeamScoreBluBG"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
@@ -150,7 +150,7 @@
 		"labelText"				"%redteamscore%"
 		"textAlignment"			"center"
 		"visible"				"1"
-		"fgcolor_override"		"32 32 32 255"
+		"fgcolor_override"		"64 64 64 255"
 
 		"pin_to_sibling"		"TeamScoreRedBG"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
