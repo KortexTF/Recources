@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "bwtest": false,
+        "key": "live_238857909_yLqXlaGbIFV5FMirAzzu7RRrY6DmAB",
+        "server": "rtmp://live-fra.twitch.tv/app",
+        "service": "Twitch"
+    },
+    "type": "rtmp_common"
+}

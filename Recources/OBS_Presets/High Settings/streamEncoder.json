@@ -1,0 +1,8 @@
+{
+    "bitrate": 4160,
+    "keyint_sec": 2,
+    "preset": "medium",
+    "profile": "high",
+    "rate_control": "CBR",
+    "x264opts": "rc-lookahead=80 trellis=1 direct-pred=spatial"
+}
